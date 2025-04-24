@@ -3,7 +3,8 @@
 
 
 
-                                   ![original](https://github.com/user-attachments/assets/8ed18119-7cae-4f88-a2bc-4fc63198fd87)
+![original](https://github.com/user-attachments/assets/dba44cc3-b5e5-43ac-8e5f-2b8bf9842aea)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el1fsavass) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elif-savas-e01s/) 
