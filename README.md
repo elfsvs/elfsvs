@@ -1,4 +1,5 @@
-[![MasterHead] (https://drive.google.com/file/d/1OvG-_t6HQ52T2xOnx5nSYPilsLntS2Hb/view?usp=drive_link)
+
+![Uploading original.gif…]()
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el1fsavass) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elif-savas-e01s/) 
