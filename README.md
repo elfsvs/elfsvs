@@ -1,5 +1,7 @@
- 
-                                     ![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/6d82abb5-9336-4de6-b7ad-b2c49b15f840)
+ <p align="center">
+  <img src="![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/57ab762a-214b-4374-8884-6a1d6ce38c8a)
+" alt="Profile Image" width="200"/>
+</p>
 
 
 ![original](https://github.com/user-attachments/assets/dba44cc3-b5e5-43ac-8e5f-2b8bf9842aea)
