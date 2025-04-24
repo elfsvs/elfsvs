@@ -1,10 +1,7 @@
 ![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/7d8475ff-abb5-4bb6-87ec-5f09841f3efb)
 
 <h1 align="center">Hi 👋, I'm Elif</h1>
-
-- 🌱 I’m currently learning Azure                                                                                
-
-- 📫 How to reach me **elifsavas19@gmail.com**     
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
