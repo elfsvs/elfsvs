@@ -1,5 +1,5 @@
 # 💫 About Me:
-PHP<br><br><br>Amgular
+Full Stack PHP Developer<br><br><br>
 
 
 ## 🌐 Socials:
