@@ -1,7 +1,7 @@
 ![original](https://github.com/user-attachments/assets/d30cb40c-0e29-4a14-83bf-09019011af93)![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/9f9ad230-a574-4a43-8b8f-8c457e6ba5ad)
 <h1 align="center">Hi 👋, I'm Elif</h1>
 
-- 🌱 I’m currently learning Azure    ![original](https://github.com/user-attachments/assets/8df5b0f7-0ade-48be-b6d5-a697e539315d)
+- 🌱 I’m currently learning Azure                                                                                 ![original](https://github.com/user-attachments/assets/8df5b0f7-0ade-48be-b6d5-a697e539315d)
 
 - 📫 How to reach me **elifsavas19@gmail.com**     
 
