@@ -1,4 +1,5 @@
-![original](https://github.com/user-attachments/assets/d30cb40c-0e29-4a14-83bf-09019011af93)![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/9f9ad230-a574-4a43-8b8f-8c457e6ba5ad)
+![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/7d8475ff-abb5-4bb6-87ec-5f09841f3efb)
+
 <h1 align="center">Hi 👋, I'm Elif</h1>
 
 - 🌱 I’m currently learning Azure                                                                                
