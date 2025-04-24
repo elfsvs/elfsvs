@@ -1,5 +1,6 @@
 
-![Uploading original.gif…]()
+![2488654_e156_3](https://github.com/user-attachments/assets/1185c9c5-5805-489f-97a6-cf034c1fb34e)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el1fsavass) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elif-savas-e01s/) 
