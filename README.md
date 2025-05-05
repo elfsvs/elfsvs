@@ -1,4 +1,4 @@
-![d5efd246-784b-4c62-9bef-bc9df0e76450](https://github.com/user-attachments/assets/7d8475ff-abb5-4bb6-87ec-5f09841f3efb)
+![Screenshot (39)](https://github.com/user-attachments/assets/c051ab22-d8af-4b18-9454-4be19a2353c7)
 
 <h1 align="center">Hi 👋, I'm Elif</h1>
  
